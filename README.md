@@ -20,5 +20,3 @@ This website consists of multiple HTML files, each representing a different page
 ## File Structure
 
 The project directory is organized as follows:
-
-
