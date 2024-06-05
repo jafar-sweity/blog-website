@@ -1,0 +1,56 @@
+/* Custom typography */
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Georgia", serif;
+  color: #333;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #0066cc;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 1.75em;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+p.bold {
+  font-weight: bold;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.underline {
+  text-decoration: underline;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
